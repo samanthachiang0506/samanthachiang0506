@@ -1,4 +1,4 @@
-# Hi, I'm TsaiTung (Samantha) Chiang 👋  
+# Hi, I'm TsaiTung (Samantha) Chiang  
 **Materials & Biomedical Engineering | Materials Characterization | Biomaterials & Device Concepts**
 
 I’m a materials-focused biomedical engineering graduate based in Toronto, with hands-on experience in:
@@ -11,20 +11,20 @@ I’m a materials-focused biomedical engineering graduate based in Toronto, with
 
 This GitHub showcases my engineering notes, material characterization workflows, and ongoing learning projects as I build my career in **materials engineering, medical devices, and R&D support roles**.
 
-## 🔬 Technical Interests
+## Technical Interests
 - Materials characterization (SEM/EDS, morphology, microstructure)
 - Soft materials & hydrogels
 - Device material integration
 - Composites & functional materials
 - Material behavior under mechanical/chemical influence
 
-## 📁 Repositories (coming soon)
+## Repositories (coming soon)
 - **SEM Activated Carbon Project**
 - **Wound Dressing Engineering Notes**
 - **Smart Materials Study Notes**
 - **Engineering Tools Learning (SolidWorks, COMSOL)**
 
-## 📫 Connect with me  
+## Connect with me  
 - LinkedIn: https://www.linkedin.com/in/tsaitung-chiang  
 - Email: samanthachiang0506@gmail.com
-
+- Phone: (437)871-0506
