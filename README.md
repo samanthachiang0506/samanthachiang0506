@@ -1,30 +1,24 @@
-# Hi, I'm TsaiTung (Samantha) Chiang  
-**Materials & Biomedical Engineering | Materials Characterization | Biomaterials & Device Concepts**
+Hi, I'm TsaiTung (Samantha) Chiang   
+Materials & Device Engineering | R&D, Materials Characterization, Manufacturing & Quality | UofT MSE Graduate
 
-I’m a materials-focused biomedical engineering graduate based in Toronto, with hands-on experience in:
+I’m a materials-oriented biomedical engineering graduate based in Toronto, with hands-on experience across materials characterization, soft materials, and early-stage device concepts. My work often sits at the intersection of **material behavior, microscopy, and functional design**.
 
-- **SEM/EDS characterization** (Hitachi SU3500 & SU7000)
-- **Biomaterials & hydrogel systems**
-- **Smart materials** (SMP, SMA, piezoelectric, dielectric elastomers)
-- **Material structure–property relationships**
-- Early-stage **medical device concept development**
+My technical experience includes:
+- **SEM/EDS characterization** using Hitachi SU3500 & SU7000  
+- **Hydrogels & soft materials**, including GelMA/HA and pH-responsive systems  
+- **Smart materials** (SMPs, SMAs, piezoelectrics, dielectric elastomers)  
+- **Structure–property relationships** in polymers and composites  
+- **Early concept development** for material-integrated medical devices
 
-This GitHub showcases my engineering notes, material characterization workflows, and ongoing learning projects as I build my career in **materials engineering, medical devices, and R&D support roles**.
+This GitHub is where I organize my engineering notes, project documentation, and learning progress as I continue building toward roles in **materials engineering, medical device R&D, and lab-based characterization**.
 
-## Technical Interests
-- Materials characterization (SEM/EDS, morphology, microstructure)
-- Soft materials & hydrogels
-- Device material integration
-- Composites & functional materials
-- Material behavior under mechanical/chemical influence
+### Technical Interests
+- Microscopy & surface/microstructure analysis  
+- Soft and functional materials  
+- Device–material integration  
+- Material behavior under chemical/mechanical stimuli  
+- Prototype-level device concepts
 
-## Repositories (coming soon)
-- **SEM Activated Carbon Project**
-- **Wound Dressing Engineering Notes**
-- **Smart Materials Study Notes**
-- **Engineering Tools Learning (SolidWorks, COMSOL)**
-
-## Connect with me  
-- LinkedIn: https://www.linkedin.com/in/tsaitung-chiang  
-- Email: samanthachiang0506@gmail.com
-- Phone: (437)871-0506
+### Connect
+LinkedIn: https://www.linkedin.com/in/tsaitung-chiang  
+Email: samanthachiang0506@gmail.com
